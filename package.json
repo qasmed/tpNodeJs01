@@ -1,0 +1,11 @@
+{
+  "name": "tpnode01",
+  "version": "1.0.0",
+  "description": "mon premier projet nodeExpressJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "M.Qassi",
+  "license": "ISC"
+}
